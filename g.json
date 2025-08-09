@@ -1,0 +1,14 @@
+[
+  {
+    "name": "List files",
+    "command": "ls",
+    "use": "Lists all files and directories in the current folder",
+    "where_to_use": "Terminal"
+  },
+  {
+    "name": "Change directory",
+    "command": "cd <path>",
+    "use": "Moves to a different directory",
+    "where_to_use": "Terminal"
+  }
+]
